@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 import org.gradle.jvm.tasks.Jar
 
 group = "com.hedev"
-version = "1.0.0"
+version = "1.0.1"
 
 plugins {
     java
